@@ -1,0 +1,13 @@
+__pycache__/
+
+*.pyc
+
+.venv/
+
+.vscode/
+
+.idea/
+
+output/
+
+*.mid.bak
